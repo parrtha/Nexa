@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+psutil
+pycaw
+comtypes
+screen-brightness-control
+pywin32
+Pillow
